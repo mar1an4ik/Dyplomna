@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Dyplomna/static/css/main.1768611f.chunk.css",
+    "main.js": "/Dyplomna/static/js/main.2c0e85df.chunk.js",
+    "main.js.map": "/Dyplomna/static/js/main.2c0e85df.chunk.js.map",
+    "runtime-main.js": "/Dyplomna/static/js/runtime-main.faa3ab0c.js",
+    "runtime-main.js.map": "/Dyplomna/static/js/runtime-main.faa3ab0c.js.map",
+    "static/js/2.c99cdd65.chunk.js": "/Dyplomna/static/js/2.c99cdd65.chunk.js",
+    "static/js/2.c99cdd65.chunk.js.map": "/Dyplomna/static/js/2.c99cdd65.chunk.js.map",
+    "index.html": "/Dyplomna/index.html",
+    "precache-manifest.f052585545c96440de8d7025967d68c5.js": "/Dyplomna/precache-manifest.f052585545c96440de8d7025967d68c5.js",
+    "service-worker.js": "/Dyplomna/service-worker.js",
+    "static/css/main.1768611f.chunk.css.map": "/Dyplomna/static/css/main.1768611f.chunk.css.map",
+    "static/js/2.c99cdd65.chunk.js.LICENSE.txt": "/Dyplomna/static/js/2.c99cdd65.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.faa3ab0c.js",
+    "static/js/2.c99cdd65.chunk.js",
+    "static/css/main.1768611f.chunk.css",
+    "static/js/main.2c0e85df.chunk.js"
+  ]
+}
